@@ -2,3 +2,5 @@
 /target
 .classpath
 .project
+debug.log
+error.log
